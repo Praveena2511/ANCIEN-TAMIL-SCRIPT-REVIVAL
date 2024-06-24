@@ -39,7 +39,6 @@ def correct_skew(image, delta=1, limit=5):
 def image_processing():
 
      import numpy as np
-     from matplotlib import pyplot as plt
      from scipy.ndimage import interpolation as inter
     
 
