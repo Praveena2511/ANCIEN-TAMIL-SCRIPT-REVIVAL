@@ -39,8 +39,7 @@ def correct_skew(image, delta=1, limit=5):
 def image_processing():
 
      import numpy as np
-     from scipy.ndimage import interpolation as inter
-    
+
 
      image = cv2.imread('Original.jpg')
 
