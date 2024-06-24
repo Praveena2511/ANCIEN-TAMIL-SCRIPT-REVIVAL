@@ -1,8 +1,5 @@
 # %%
-import joblib
 
-
-print('model')
 
 def model_generation():
     import os, glob
