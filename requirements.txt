@@ -6,4 +6,4 @@ imutils
 matplotlib
 tensorflow
 keras
-opencv
+opencv-python
