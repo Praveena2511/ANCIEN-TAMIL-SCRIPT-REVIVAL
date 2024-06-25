@@ -8,3 +8,7 @@ tensorflow
 keras
 opencv-python
 streamlit 
+tensorflow.keras
+
+
+-e.
